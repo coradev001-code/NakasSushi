@@ -1,0 +1,18 @@
+NAKA'S SUSHI DELIVERY - SITE
+
+Como usar
+1. Abra index.html no navegador para ver o site.
+2. Para publicar, envie a pasta inteira (index.html, css, js e assets) para
+   qualquer hospedagem: Netlify, Vercel, GitHub Pages ou a sua hospedagem.
+
+Estrutura
+  index.html         página
+  css/style.css      estilos (cores no topo, em :root)
+  js/main.js         scripts
+  assets/img/        fotos, logo e favicon
+
+Onde editar
+  - Link do cardapio/pedido: procure por nakassushi.menudino.com no index.html
+  - Telefone/WhatsApp: procure por 5514998073544
+  - Cores: variaveis no inicio de css/style.css
+  - Trocar fotos: substitua os arquivos em assets/img mantendo os nomes
